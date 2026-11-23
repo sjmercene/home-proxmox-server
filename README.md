@@ -44,7 +44,8 @@ This is an ongoing project that I'll continue expanding as I learn.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 01 – Hardware Build | Component selection, physical assembly and initial setup | ✅ Completed |
+
+| [01 – Hardware Build](./01-Hardware-Build/README.md) | Component selection, physical assembly and initial setup | ✅ Completed |
 | 02 – Proxmox Installation | Hypervisor installation, networking, repositories and updates | ✅ Completed |
 | 03 – Ubuntu Server | VM deployment, network configuration, updates and SSH | ✅ Completed |
 | 04 – Linux Administration | Users, groups, permissions, services and troubleshooting | ⏳ Planned |
