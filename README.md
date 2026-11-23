@@ -56,7 +56,7 @@ This is an ongoing project that I'll continue expanding as I learn.
 
 ## Troubleshooting & Lessons Learned
 
-Building this home lab hasn't been without challenges. Some of the issues I've encountered include:
+Building this home lab i had to deal with some encounters. Some of the issues are:
 
 - **Installation Media:** Downloaded an incompatible ARM64 installer instead of the x86-64 version.
 - **Network Connectivity:** Troubleshot an inaccessible Proxmox web interface caused by a disconnected Ethernet cable.
