@@ -28,11 +28,11 @@ The aim was to work through situations that an IT support technician or system a
 
 ## 1. Linux Administration Preparation
 
-Before setting up Greenworks, I worked through several Linux administration exercises to build on my existing knowledge and become more comfortable using the command line.
+To get myself familiar with Linux again, I played around for while with linux to update my existing knowledge and become more comfortable using some command lines.
 
 ### Baseline Snapshot
 
-I created a baseline snapshot through the Proxmox web interface before making further changes to Ubuntu Server.
+Before i did anything i created a baseline snapshot through the Proxmox web interface before making further changes to Ubuntu Server.
 
 | Configuration | Value |
 |---|---|
